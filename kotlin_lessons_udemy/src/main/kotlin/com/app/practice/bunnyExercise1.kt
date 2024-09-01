@@ -1,4 +1,4 @@
-package com.app
+package com.app.practice
 
 fun main(args: Array<String>) {
     println("(\\(\\")
