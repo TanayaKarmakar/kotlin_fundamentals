@@ -20,4 +20,13 @@ fun main(args: Array<String>) {
         1 -> result = "number is odd"
     }
     println(result)
+
+    val month = "January"
+    val numDays = when(month) {
+        "January", "March", "May" -> 31
+        "February" -> 28
+        else -> 30
+    }
+
+    println("The month of $month has $numDays days")
 }
