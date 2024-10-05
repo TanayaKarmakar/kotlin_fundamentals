@@ -1,4 +1,4 @@
-package com.app.practice
+package com.app.practice.oop
 
 import kotlin.random.Random
 

@@ -1,4 +1,4 @@
-package com.app.practice
+package com.app.practice.oop
 
 fun main(args: Array<String>) {
     val parakeet = Parakeet()
